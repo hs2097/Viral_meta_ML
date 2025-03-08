@@ -1,4 +1,5 @@
-# ReadMe
+# Enhancing Viral Identification in Metagenomic Datasets Using Machine Learning
+## ReadMe
 
 This study aims to improve the identification and characterization of viral sequences within metagenomic datasets by leveraging machine learning models, specifically Gradient Boosting Machines (GBMs), to analyze genomic compositional features. The study utilizes genomic data from various organisms to create robust models capable of distinguishing viral sequences from non-viral ones and further categorizing them into their respective taxonomic groups. This approach is particularly significant in addressing the challenges posed by "viral dark matter," which refers to the vast array of unidentified viral sequences in metagenomic studies.
 
