@@ -28,7 +28,7 @@ ________________________________________________________________________________
            a. **Virus/NonVirus** classes based on the superkingdoms for **binary** models
            b. **Archaea/Bacteria/Fungi/Metazoa/Plant/Virus/Other Eukaryote** based on the superkingdom and kingdom (in case of Fungi/Metazoa/Plant) for **multiclass** models
 
-  Step 8: Train the models and validation
+  Step 8: Train the models and validate.
 __________________________________________________________________________________________________________________________________________________________
 
    ## 2. Scripts
@@ -158,8 +158,6 @@ e. Master dataset generation:
 
   iv. Output: A .csv file after merging the subsampled dataset, genomic features, and category information. Column names depend on the tool used to produce the genomic features. A *log* file to to log information and errors while the script runs.
 
-
-
 f. Gradient boosting ML models:
 
   1. Binary model:
@@ -239,7 +237,7 @@ f. Gradient boosting ML models:
           vi. [prefix]_multicategorical_tree.png
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-    
+  ## Additional
   a. data_visualization.R : R script containing all the code used to visualize data and create plots for this study.
   b. Randomized_search_cv.py : To hypertune the parameters for both binary and multiclass models.
 
