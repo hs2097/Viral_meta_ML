@@ -1,12 +1,12 @@
 # Enhancing Viral Identification in Metagenomic Datasets Using Machine Learning (DISSERTATION PROJECT)
-## Introduction
+## 1. Introduction
 
 This study aims to improve the identification and characterization of viral sequences within metagenomic datasets by leveraging machine learning models, specifically Gradient Boosting Machines (GBMs), to analyze genomic compositional features. The study utilizes genomic data from various organisms to create robust models capable of distinguishing viral sequences from non-viral ones and further categorizing them into their respective taxonomic groups. This approach is particularly significant in addressing the challenges posed by "viral dark matter," which refers to the vast array of unidentified viral sequences in metagenomic studies.
 
 This readme file contains information about the data, scripts and their usage. It also includes an overview of the steps and commands used for the study. This will help reproduce the pipeline used to train the models.
 
 __________________________________________________________________________________________________________________________________________________________
-  ## 1. Pipeline Overview
+  ## 2. Pipeline Overview
 
   Step 1: Download the RefSeq catalog (Release 244 has been used for this study).
           URL: https://ftp.ncbi.nlm.nih.gov/refseq/release/release-catalog
@@ -32,7 +32,7 @@ ________________________________________________________________________________
   Step 8: Train the models and validate.
 __________________________________________________________________________________________________________________________________________________________
 
-   ## 2. Scripts
+   ## 3. Scripts
 
 a.	Lineage database generation:
 
