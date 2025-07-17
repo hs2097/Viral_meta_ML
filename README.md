@@ -251,10 +251,13 @@ f. Gradient boosting ML models:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## libraries and dependencies
 
-Software/Packages	Version	Reference
-Python	3.11.8	https://www.python.org/
-os	3.11.8	https://docs.python.org/3/library/os.html
-sys	3.11.8	https://docs.python.org/3/library/sys.html
+Software/Packages - Version  Reference
+Python-3.11.8	https://www.python.org/
+
+os-3.11.8	https://docs.python.org/3/library/os.html
+
+sys-3.11.8	https://docs.python.org/3/library/sys.html
+
 subprocess	3.11.8	https://docs.python.org/3/library/subprocess.html
 logging	0.5.1.2	https://docs.python.org/3/library/logging.html
 argsparse	1.1	https://docs.python.org/3/library/argparse.html
