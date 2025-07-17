@@ -39,7 +39,7 @@ a.	Lineage database generation:
 
 i.	Script: Taxid_Lineage_extraction.py
 
-*NOTE : This script also runs an Rscript taxonomy_utils.R, Mollentze et al.(2021) (https://doi.org/10.1371/journal.pbio.3001390 . Full reference in the report.) to fill up any taxonomic rank values that are empty. Please refer to the mentioned URL for any further information about the script: https://github.com/Nardus/zoonotic_rank/blob/main/Utils/taxonomy_utils.R*
+*NOTE : This script also runs an Rscript taxonomy_utils.R, Mollentze et al.(2021) (https://doi.org/10.1371/journal.pbio.3001390 .) to fill up any taxonomic rank values that are empty. Please refer to the mentioned URL for any further information about the script: https://github.com/Nardus/zoonotic_rank/blob/main/Utils/taxonomy_utils.R*
     
 ii.	Usage: 
       
