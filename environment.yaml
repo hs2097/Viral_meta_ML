@@ -1,4 +1,4 @@
-name: viral_ML
+name: Viral_meta_ML
 channels:
   - conda-forge
   - bioconda
