@@ -252,36 +252,60 @@ f. Gradient boosting ML models:
 ## libraries and dependencies
 
 Software/Packages - Version  Reference
-Python-3.11.8	https://www.python.org/
 
-os-3.11.8	https://docs.python.org/3/library/os.html
+1.	Python-3.11.8	https://www.python.org/
 
-sys-3.11.8	https://docs.python.org/3/library/sys.html
+2.	os-3.11.8	https://docs.python.org/3/library/os.html
 
-subprocess	3.11.8	https://docs.python.org/3/library/subprocess.html
-logging	0.5.1.2	https://docs.python.org/3/library/logging.html
-argsparse	1.1	https://docs.python.org/3/library/argparse.html
-pandas	2.0.0	https://pandas.pydata.org/
-numpy	1.24.2	https://numpy.org/
-ete3 (ETE toolkit Python API)	3.1.3	http://etetoolkit.org/docs/latest/index.html
-scipy	1.10.1	https://scipy.org/
-matplotlib	3.8.2	https://matplotlib.org/
-Biopython Entrez	1.83	https://biopython.org/docs/1.75/api/Bio.Entrez.html
-scikit-learn	1.5.0	https://scikit-learn.org/stable/
-xgboost	2.0.3	https://xgboost.readthedocs.io/en/stable/python/index.html
-R	4.3.2	https://www.r-project.org/about.html
-ggplot2	3.5.0	https://ggplot2.tidyverse.org/
-dyplr	1.1.4	https://dplyr.tidyverse.org/
-tidyr	1.3.1	https://tidyr.tidyverse.org/
-tidyverse	2.0.0	https://www.tidyverse.org/
-data.table	1.15.2	https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
-viridis	0.6.5	https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
-forcats	1.0.0	https://forcats.tidyverse.org/
-reshape2	1.4.4	https://cran.r-project.org/web/packages/reshape2/index.html
-caret	6.0.94	https://cran.r-project.org/web/packages/caret/index.html
-readxl	1.4.3	https://readxl.tidyverse.org/
-rlang	1.1.3	https://cran.r-project.org/web/packages/rlang/index.html
-gridExtra	2.3	https://cran.r-project.org/web/packages/gridExtra/index.html
-readr	2.1.5	https://readr.tidyverse.org/
-![Uploading image.png…]()
+3.	sys-3.11.8	https://docs.python.org/3/library/sys.html
+
+4.	subprocess-3.11.8	https://docs.python.org/3/library/subprocess.html
+
+5.	logging-0.5.1.2	https://docs.python.org/3/library/logging.html
+
+6.	argsparse-1.1	https://docs.python.org/3/library/argparse.html
+
+7.	pandas-2.0.0	https://pandas.pydata.org/
+
+8.	numpy-1.24.2	https://numpy.org/
+
+9.	ete3 (ETE toolkit Python API)-3.1.3	http://etetoolkit.org/docs/latest/index.html
+
+10.	scipy-1.10.1	https://scipy.org/
+
+11.	matplotlib-3.8.2	https://matplotlib.org/
+
+12.	Biopython Entrez-1.83	https://biopython.org/docs/1.75/api/Bio.Entrez.html
+
+13.	scikit-learn-1.5.0	https://scikit-learn.org/stable/
+
+14.	xgboost2.0.3	https://xgboost.readthedocs.io/en/stable/python/index.html
+
+15.	R-4.3.2	https://www.r-project.org/about.html
+
+16.	ggplot2-3.5.0	https://ggplot2.tidyverse.org/
+
+17.	dyplr-1.1.4	https://dplyr.tidyverse.org/
+
+18.	tidyr-1.3.1	https://tidyr.tidyverse.org/
+
+19.	tidyverse-2.0.0	https://www.tidyverse.org/
+
+20.	data.table-1.15.2	https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
+
+21.	viridis-0.6.5	https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
+
+22.	forcats-1.0.0	https://forcats.tidyverse.org/
+
+23.	reshape2-1.4.4	https://cran.r-project.org/web/packages/reshape2/index.html
+
+24.	caret-6.0.94	https://cran.r-project.org/web/packages/caret/index.html
+
+25.	readxl-1.4.3	https://readxl.tidyverse.org/
+
+26.	rlang-1.1.3	https://cran.r-project.org/web/packages/rlang/index.html
+
+27.	gridExtra-2.3	https://cran.r-project.org/web/packages/gridExtra/index.html
+
+28.	readr-2.1.5	https://readr.tidyverse.org/
 
